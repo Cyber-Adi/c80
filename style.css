@@ -1,0 +1,26 @@
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+input{
+    margin: 10px;
+}
+#NWC{
+    border: green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+#NNC{
+    border: red;
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
